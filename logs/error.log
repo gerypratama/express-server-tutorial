@@ -1,0 +1,6 @@
+20250506	11:18:03	b21dd790-07c8-41b3-9897-0de2bfc99106	TypeError:fsPromises.readFil is not a function
+20250506	16:35:08	f8f16ec1-21a2-4986-aac4-4bbaa89c6f1a	Error: Not allowed by CORS
+20250507	09:50:00	978f927a-d3d0-4b98-8734-cf2c3ae62998	Error: ENOENT: no such file or directory, stat '/home/icon/Learning/Backend/NodeJS/DaveGrayTutorials/web-server/routes/views/index.html'
+20250507	09:50:03	9c7f426b-95ae-4cfc-b554-50d135144a4d	Error: ENOENT: no such file or directory, stat '/home/icon/Learning/Backend/NodeJS/DaveGrayTutorials/web-server/routes/views/index.html'
+20250507	11:16:51	be51375e-f65c-4b86-b2b0-b2fa210691ab	SyntaxError: Expected double-quoted property name in JSON at position 66 (line 5 column 1)
+20250507	11:17:26	f314dfc6-f2ea-45c2-980c-2024bb3a40f3	SyntaxError: Expected ',' or '}' after property value in JSON at position 42 (line 4 column 3)
